@@ -2,7 +2,7 @@ package ExerciciosLista1;// 2. Escreva um programa que calcula a média de uma l
 
 import java.util.Scanner;
 
-public class Exercicio2Lista2 {
+public class Exercicio2Lista1 {
     public static void main(String[] args) {
 
         // 2. Escreva um programa que calcula a média de uma lista de números fornecida pelo usuário.
